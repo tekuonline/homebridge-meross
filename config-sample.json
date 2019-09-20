@@ -1,0 +1,24 @@
+{
+    "accessories": [
+      {
+        "accessory": "Meross",
+        "name": "Bedroom lamp",
+        "deviceUrl": "http://192.168.1.5",
+        "hardwareVersion": 1,
+        "channel": 0,
+        "messageId": "ea3a20d62868f6c709b6e1b8aeab1ecc",
+        "timestamp": 1550640748,
+        "sign": "9430a84459d15a522a8cb91c93f63b45"
+      },
+      {
+        "accessory": "Meross",
+        "name": "Entertainment center lights",
+        "deviceUrl": "http://192.168.1.6",
+        "hardwareVersion": 2,
+        "channel": 0,
+        "messageId": "ea3a20d62868f6c709b6e1b8aeab1ecc",
+        "timestamp": 1550640748,
+        "sign": "9430a84459d15a522a8cb91c93f63b45"
+      }
+    ]
+  }
