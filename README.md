@@ -23,9 +23,9 @@ plugs IP address is on your network & the channel that plug is running on.
 	      "deviceUrl": "http://192.168.1.5",
 	      "hardwareVersion": 1,
 	      "channel": 0,
-        "username":"test@gmail.com"
-        "password":"xxxxx"
-	      "deviceUrl": "http://192.168.11.11"
+              "username":"test@gmail.com",
+              "password":"xxxxx",
+	      "deviceUrl": "http://192.168.11.11",
 	      "messageId": "ea3a20d62868f6c709b6e1b8aeab1ecc",
 	      "timestamp": 1550640748,
 	      "sign": "9430a84459d15a522a8cb91c93f63b45"
